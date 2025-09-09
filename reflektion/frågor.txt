@@ -1,0 +1,39 @@
+1. Skillnaden mellan IaaS, PaaS och SaaS:
+
+IaaS (Infrastructure as a Service) innebär att man hyr servrar, lagring och nätverk men man installerar verktyg själv.
+Det är som att du köper en bil och du får du själv ansvara för allt som bensin, försäkring, service och du får köra bilen själv.
+
+PaaS (Platform as a Service) innebär att du får en färdig plattform och slipper att installera operativsystem osv.
+Det är som att du leasar en bil och då får leasingföretaget så för service osv och du behöver bara fokusera på att köra bilen.
+
+SaaS (Software as a Service) innebär att man använder en färdig programvara.
+Det är som att du åker taxi och det enda du behöver fokusera på är att njuta av färden och taxichauffören sköter resten.
+
+2. Git är ett versionshanteringssystem, det kan du använda för att spara versioner, ångra ändringar och 
+det fungerar som en mellanhand från din dator till github.
+
+Github är en webbtjänst som låter dig lagra, dela och se andras kod och samarbeta med andra på projekt.
+
+3. Ett informationssystem ansvarar för logiken, datalagringen och kommunikationen mellan användargränssnittet (frontend) och databasen.
+Det är den dolda delen av systemet, alltså servrar, databaser och logik som gör att användargränssnittet (frontend) fungerar.
+
+4. CIA-triaden är en grundpelare inom informationssäkerhet. Den hjälper till att förstå och skydda information och IT-system.
+Namnet kommer från de tre kärnprinciperna:
+
+Confidentiality (Konfidentialitet)
+Informationen ska bara vara tillgänglig för de som har rätt att se den.
+Skydda känslig data från obehöriga genom kryptering osv.
+
+Integrity (Integritet)
+Informationen ska vara korrekt, oförändrad och pålitlig för att säkerställa 
+att data inte har manipulerats eller ändrats av misstag eller avsiktligt.
+
+Availability (Tillgänglighet)
+Informationen och systemen ska vara tillgängliga när de behövs.
+Användare ska ha tillgång till data och system utan onödiga avbrott.
+
+5. Continuous Integration, eller CI, betyder att man hela tiden testar och kontrollerar sin kod automatiskt när 
+man jobbar i ett projekt, särskilt om man är flera personer som jobbar tillsammans.
+Varje gång någon gör en ändring i koden (t.ex. lägger till en ny funktion eller fixar en bugg) och skickar upp den till projektet
+så byggs koden och testas automatiskt för att se att inget har gått sönder.
+
