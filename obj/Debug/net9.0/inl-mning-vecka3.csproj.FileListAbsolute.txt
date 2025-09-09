@@ -1,0 +1,15 @@
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/bin/Debug/net9.0/inl-mning-vecka3
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/bin/Debug/net9.0/inl-mning-vecka3.deps.json
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/bin/Debug/net9.0/inl-mning-vecka3.runtimeconfig.json
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/bin/Debug/net9.0/inl-mning-vecka3.dll
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/bin/Debug/net9.0/inl-mning-vecka3.pdb
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/Debug/net9.0/inl-mning-vecka3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/Debug/net9.0/inl-mning-vecka3.AssemblyInfoInputs.cache
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/Debug/net9.0/inl-mning-vecka3.AssemblyInfo.cs
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/Debug/net9.0/inl-mning-vecka3.csproj.CoreCompileInputs.cache
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/Debug/net9.0/inl-mning-vecka3.sourcelink.json
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/Debug/net9.0/inl-mning-vecka3.dll
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/Debug/net9.0/refint/inl-mning-vecka3.dll
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/Debug/net9.0/inl-mning-vecka3.pdb
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/Debug/net9.0/inl-mning-vecka3.genruntimeconfig.cache
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/Debug/net9.0/ref/inl-mning-vecka3.dll
