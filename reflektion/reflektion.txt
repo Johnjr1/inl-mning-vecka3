@@ -1,0 +1,14 @@
+Jag visste en del om mjukvaruutveckling innan då jag har läst frontend innan men har redan fått mycket djupare förståelse och har fått 
+mycket mer insikt om backend och cloud.
+
+Som jag förstår det så är DevOps de som får koden från utvecklarna och jobbar med att ta hand om de verktyg och processer 
+som gör att kod kan släppas snabbt och säkert. Man automatiserar saker som testning osv.
+
+Jag tyckte att cloud lät väldigt svårt innan jag började men nu börjar jag förstå att det inte är så svårt som man tror och 
+det mesta finns redan färdigt så det handlar mer om att man ska veta vad och hur man ska använda det som redan finns.
+
+Att jobba som en systemutvecklare i ett team handlar om att samarbeta, lösa problem, skriva och testa kod tillsammans.
+
+Det mest intressanta hittills har varit att lära sig hur cloud fungerar och hur man kan börja bygga fullständiga appar.
+Jag tycker också om Nemos sätt att tämka när det gäller att skapa egna företag och att inte bara tänka som en kodare utan som 
+en problemlösare och entreprenör.
