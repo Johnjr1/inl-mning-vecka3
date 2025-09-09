@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("inl-mning-vecka3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9e1d48ac4551b10bacfaf7f6cb1de17a21d7de5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1df41c7b4bf2e490bc5b1448158cb0f3b3078d88")]
 [assembly: System.Reflection.AssemblyProductAttribute("inl-mning-vecka3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("inl-mning-vecka3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

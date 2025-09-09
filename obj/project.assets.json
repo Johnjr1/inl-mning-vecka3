@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/inl-mning-vecka3.csproj",
+      "projectUniqueName": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/inl-mning-vecka3.csproj",
       "projectName": "inl-mning-vecka3",
-      "projectPath": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/inl-mning-vecka3.csproj",
+      "projectPath": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/inl-mning-vecka3.csproj",
       "packagesPath": "/Users/johnjr/.nuget/packages/",
-      "outputPath": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/",
+      "outputPath": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/inlämning/inl-mning-vecka3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/johnjr/.nuget/NuGet/NuGet.Config"
