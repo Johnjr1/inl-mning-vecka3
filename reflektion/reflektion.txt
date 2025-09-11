@@ -1,8 +1,11 @@
 Jag visste en del om mjukvaruutveckling innan då jag har läst frontend innan men har redan fått mycket djupare förståelse och har fått 
 mycket mer insikt om backend och cloud.
 
-Som jag förstår det så är DevOps de som får koden från utvecklarna och jobbar med att ta hand om de verktyg och processer 
-som gör att kod kan släppas snabbt och säkert. Man automatiserar saker som testning osv.
+Som jag förstår det så är DevOps är en metodologi, kultur och uppsättning verktyg som syftar till att förena mjukvaruutveckling och 
+IT-drift. Det handlar om verktyg och processer som gör att kod kan släppas snabbt och säkert. Man automatiserar saker som testning osv.
+Man använder sig utav CI/CD (Continuous Integration / Continuous Deployment), automation och applikationer och 
+system i produktion övervakas kontinuerligt.
+
 
 Jag tyckte att cloud lät väldigt svårt innan jag började men nu börjar jag förstå att det inte är så svårt som man tror och 
 det mesta finns redan färdigt så det handlar mer om att man ska veta vad och hur man ska använda det som redan finns.
